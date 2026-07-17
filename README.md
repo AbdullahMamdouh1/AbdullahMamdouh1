@@ -60,7 +60,7 @@ I'm a Flutter Developer specialized in building scalable and production-ready mo
 # 🛠️ Tech Stack
 
 
-## 📱 Mobile Development
+##  Mobile Development
 
 <p align="left">
 
@@ -75,7 +75,7 @@ I'm a Flutter Developer specialized in building scalable and production-ready mo
 </p>
 
 
-## 🏗 Architecture & State Management
+## Architecture & State Management
 
 <p align="left">
 
@@ -94,7 +94,7 @@ I'm a Flutter Developer specialized in building scalable and production-ready mo
 </p>
 
 
-## 🔥 Backend & Integration
+## Backend & Integration
 
 <p align="left">
 
@@ -109,7 +109,7 @@ I'm a Flutter Developer specialized in building scalable and production-ready mo
 </p>
 
 
-## 🗄 Database & Storage
+## Database & Storage
 
 <p align="left">
 
@@ -122,7 +122,7 @@ I'm a Flutter Developer specialized in building scalable and production-ready mo
 </p>
 
 
-## 🔧 Tools & Workflow
+## Tools & Workflow
 
 <p align="left">
 
@@ -141,7 +141,7 @@ I'm a Flutter Developer specialized in building scalable and production-ready mo
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 
 ## 🏥 Eyadty App
@@ -269,18 +269,6 @@ Tech:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-
----
 
 # 📫 Contact Me
 
