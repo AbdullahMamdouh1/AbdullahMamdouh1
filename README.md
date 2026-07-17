@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Abdullah Mamdouh</h1>
 
@@ -154,5 +153,5 @@ Email:
 abdullahmamdouh240@gmail.com
 
 LinkedIn:
-YOUR_LINKEDIN_LINK
+https://www.linkedin.com/in/abdullah-mamdouh-0908562ab?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
