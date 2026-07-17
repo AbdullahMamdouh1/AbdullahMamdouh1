@@ -24,7 +24,6 @@ Building scalable, high-performance, and user-friendly mobile applications using
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60"/>
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bloc-colored.svg" width="60" height="60"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
 
