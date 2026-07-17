@@ -11,11 +11,10 @@ Building scalable, responsive, and high-performance mobile applications using Fl
 
 
 <p align="center">
-<a href="https://linkedin.com/">LinkedIn</a>
+<a href="[https://linkedin.com/](https://www.linkedin.com/in/abdullah-mamdouh-0908562ab?utm_source=share_via&utm_content=profile&utm_medium=member_android)">LinkedIn</a>
 •
 <a href="mailto:abdullahmamdouh240@gmail.com">Email</a>
-•
-<a href="https://github.com/">GitHub</a>
+ 
 </p>
 
 
@@ -140,7 +139,7 @@ Flutter | Firebase
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullahMamdouh1&show_icons=true&theme=tokyonight"/>
 
 </p>
 
