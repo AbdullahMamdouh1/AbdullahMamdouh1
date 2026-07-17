@@ -134,6 +134,73 @@ Flutter | Firebase
 
 ---
 
+
+### 🌍 Masiafe App
+Booking & Lifestyle Platform
+
+A comprehensive platform combining hotel bookings, trips, restaurants & cafés, cinemas, and real estate listings.
+
+Features:
+- Hotel and trip reservations.
+- Real-time chat.
+- Exclusive offers.
+- Secure booking workflow.
+- Role-based access for visitors, owners, and admins.
+
+Tech:
+Flutter | Dart | REST APIs | WebSocket | Firebase
+
+---
+
+### 🚚 Atayer App
+E-commerce & Delivery Ecosystem
+
+A complete multi-app e-commerce solution consisting of:
+
+- User App: Product browsing, purchasing, cart, and order tracking.
+- Delivery App: Order management and delivery workflow.
+- Store App: Inventory and order processing.
+
+Tech:
+Flutter | Dart | REST APIs | Firebase
+
+
+---
+
+
+### 🛍️ Swadi App
+E-commerce Platform
+
+Collaborated as part of a development team to build an e-commerce mobile application.
+
+Implemented:
+- Product management modules.
+- Order workflows.
+- User experience improvements.
+- Clean and maintainable Flutter code.
+
+Tech:
+Flutter | Dart | REST APIs
+
+---
+
+
+### 📚 Product Guide App
+Product Discovery Application
+
+Built an intuitive mobile application focused on improving product discovery and categorization.
+
+Features:
+- Product browsing.
+- Category management.
+- Responsive user interface.
+- Smooth navigation experience.
+
+Tech:
+Flutter | Dart | REST APIs
+
+---
+
 ## 📊 GitHub Stats
 
 
