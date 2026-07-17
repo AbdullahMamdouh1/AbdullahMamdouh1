@@ -1,16 +1,158 @@
 ## Hi there 👋
 
-<!--
-**AbdullahMamdouh1/AbdullahMamdouh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Abdullah Mamdouh</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Flutter Developer | Mobile Application Engineer
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Building scalable, responsive, and high-performance mobile applications using Flutter & Dart.
+</p>
+
+
+<p align="center">
+<a href="https://linkedin.com/">LinkedIn</a>
+•
+<a href="mailto:abdullahmamdouh240@gmail.com">Email</a>
+•
+<a href="https://github.com/">GitHub</a>
+</p>
+
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Flutter Developer passionate about building modern, scalable, and user-friendly mobile applications.
+
+- 🚀 Experienced in developing production-ready Flutter applications.
+- 🏗️ Skilled in Clean Architecture, SOLID Principles, and scalable app structures.
+- 🔥 Experienced with Firebase, REST APIs, WebSocket, and real-time applications.
+- 🌍 Built applications across different domains including Healthcare, E-commerce, Booking, and Delivery systems.
+- 💡 Always learning and improving my skills in mobile development.
+
+
+---
+
+## 🛠️ Tech Stack
+
+
+### Mobile Development
+<p>
+Flutter • Dart • Responsive UI • Adaptive UI • Localization
+</p>
+
+
+### Architecture & State Management
+
+<p>
+Clean Architecture • MVVM • MVC • Bloc/Cubit • Provider • GetX
+</p>
+
+
+### Backend & Integration
+
+<p>
+REST APIs • Firebase Authentication • Cloud Firestore • Storage • WebSocket
+</p>
+
+
+### Database & Storage
+
+<p>
+Hive • Shared Preferences
+</p>
+
+
+### Tools
+
+<p>
+Git • GitHub • Postman • Agile Methodologies
+</p>
+
+
+---
+
+## 📱 Featured Projects
+
+
+### 🏥 Eyadty App
+Healthcare Management Platform
+
+- Patient and Doctor/Clinic applications.
+- Appointment booking system.
+- Clinic management modules.
+- Chat, analytics, inventory, insurance, and e-commerce features.
+
+Tech:
+Flutter | Firebase | REST APIs | Bloc
+
+
+---
+
+### 🛒 Luk App
+E-commerce & Lottery Platform
+
+- Product browsing and cart system.
+- Lottery features.
+- Real-time chat and notifications.
+- WebSocket-based updates.
+
+Tech:
+Flutter | WebSocket | REST APIs
+
+
+---
+
+### 🍽️ Beirut App
+Restaurant Ordering Application
+
+- Food browsing.
+- Cart and checkout.
+- Order tracking.
+- Arabic/English localization.
+- Dark/Light mode.
+
+Tech:
+Flutter | Firebase
+
+
+---
+
+### 🌱 Auxilio App
+Graduation Project
+
+Blood donation application connecting donors, hospitals, clinics, and laboratories.
+
+Features:
+- Donor registration.
+- Blood database.
+- Donation scheduling.
+
+Tech:
+Flutter | Firebase
+
+
+---
+
+## 📊 GitHub Stats
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+## 📫 Contact Me
+
+Email:
+abdullahmamdouh240@gmail.com
+
+LinkedIn:
+YOUR_LINKEDIN_LINK
+
