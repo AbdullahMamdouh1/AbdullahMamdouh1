@@ -57,7 +57,7 @@ I'm a Flutter Developer specialized in building scalable and production-ready mo
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 
 ##  Mobile Development
