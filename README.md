@@ -11,7 +11,7 @@ Building scalable, responsive, and high-performance mobile applications using Fl
 
 
 <p align="center">
-<a href="(https://www.linkedin.com/in/abdullah-mamdouh-0908562ab?utm_source=share_via&utm_content=profile&utm_medium=member_android)">LinkedIn</a>
+<a href="https://www.linkedin.com/in/abdullah-mamdouh-0908562ab?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
 •
 <a href="mailto:abdullahmamdouh240@gmail.com">Email</a>
  
