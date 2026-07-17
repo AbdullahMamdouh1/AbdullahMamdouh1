@@ -27,22 +27,67 @@ Building scalable, responsive, and high-performance mobile applications using Fl
  
 </p>
 
-<h2>🛠 Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
-<p>
+<h3>📱 Mobile Development</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-
+<p align="left">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
+
+<h3>🏗️ Architecture & State Management</h3>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BLoC-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Provider-7952B3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge"/>
+</p>
+
+
+<h3>🔥 Backend & APIs</h3>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+
+<h3>🗄️ Database & Storage</h3>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shared%20Preferences-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+
+<h3>🔧 Tools & Workflow</h3>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+
+<h3>🧪 Testing & Quality</h3>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Clean%20Code-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID%20Principles-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unit%20Testing-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance%20Optimization-009688?style=for-the-badge"/>
+</p>
 
 ---
 
