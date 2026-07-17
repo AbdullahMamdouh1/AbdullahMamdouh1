@@ -148,7 +148,7 @@ Features:
 - Role-based access for visitors, owners, and admins.
 
 Tech:
-Flutter | Dart | REST APIs | WebSocket | Firebase
+Flutter | Dart | REST APIs | Firebase
 
 ---
 
@@ -201,17 +201,6 @@ Flutter | Dart | REST APIs
 
 ---
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahMamdouh1&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-
----
 
 ## 📫 Contact Me
 
