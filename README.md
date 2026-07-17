@@ -9,12 +9,38 @@ Flutter Developer | Mobile Application Engineer
 Building scalable, responsive, and high-performance mobile applications using Flutter & Dart.
 </p>
 
+<p align="center">
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/abdullah-mamdouh-0908562ab?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
 •
 <a href="mailto:abdullahmamdouh240@gmail.com">Email</a>
  
+</p>
+
+<h2>🛠 Tech Stack</h2>
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+
 </p>
 
 
