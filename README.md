@@ -14,10 +14,7 @@ Flutter Developer | Mobile Application Engineer
 Building scalable, high-performance, and user-friendly mobile applications using Flutter & Dart.
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AbdullahMamdouh1&label=Profile%20Views&color=blue&style=flat"/>
-</p>
-
+ 
 
 <p align="center">
 
